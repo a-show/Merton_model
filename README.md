@@ -18,3 +18,7 @@ dataset_name = "exchange_rate_nips"
 'mean_wQuantileLoss': 0.0153640957409356, 
 'MAE_Coverage': 0.4758333333333334, 
 'OWA': nan}
+
+mean_wQuantileLossがCRPSと同じ評価指標
+3回の結果 {0.0153640957409356, 0.01552779726216514, 0.01553300482575982}
+mean 0.01547496594, std 0.00007842589
